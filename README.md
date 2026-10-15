@@ -2,11 +2,11 @@
 
 This repository documents my hands-on learning journey through the **VSDIAT (VLSI System Design – Anurag Institute Chip Design Program)**. It includes my work on Verilog RTL design, simulation, synthesis, SKY130 technology mapping, timing analysis, and ASIC physical design.
 
-The repository is organized by training day and includes practical exercises, implementation notes, debugging experiences, and my ongoing **BabySoC** project.
+The repository is organized by training day and includes practical exercises, implementation notes, debugging experiences.
 
 ## Project Walkthrough Video
 
-The video covers **Days 1–10** and the **BabySoC guided project**, including RTL design, synthesis, pre-layout STA, physical design, and post-route STA.
+The video covers **Days 1–10** and  including RTL design, synthesis, pre-layout STA, physical design, and post-route STA.
 
 ▶️ https://drive.google.com/file/d/1CoNw9tmedD7su3fJxhY0URSgDeSXODZo/view?usp=sharing
 
